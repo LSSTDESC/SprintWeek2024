@@ -28,6 +28,6 @@ If you do not have write access to any of the GitHub repositories listed, obtain
 ## How to get write-access to LSSTDESC GitHub repositories
 
 By default, all repositories under the LSSTDESC organization are read-only for all the members.
-If you think there's a remote possibility of you working on a repo you have not worked on before, ask for write access.
-If you are unsure whether you have write access to a repo, ask again anyway.
-If you are unsure who/where to ask for write access, ask on #desc-github-help on LSSTC Slack workspace.
+- If you think there's a possibility of you working on a repo you have not worked on before, ask for write access.
+- If you are unsure whether you have write access to a repo, ask again anyway.
+- If you are unsure who/where to ask for write access, ask on #desc-github-help on LSSTC Slack workspace.
