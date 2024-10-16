@@ -6,7 +6,7 @@ Check the <a href="https://github.com/LSSTDESC/SprintWeek2024/issues">issue page
 ## How to request a tutorial
 
 Use the following link to request a tutorial on a particular topic at the Sprint week:
-  - <a href="https://github.com/LSSTDESC/SprintWeek2022/issues/new?assignees=&labels=tutorial+request&template=tutorial-request.md&title=%5BTutorial%5D+Your+idea+for+a+tutorial" target="_blank"  >New Tutorial Request</a>
+  - <a href="https://github.com/LSSTDESC/SprintWeek2024/issues/new?assignees=&labels=Tutorial+Request&template=tutorial-request.md&title=%5BTutorial%5D+Your+idea+for+a+tutorial" target="_blank"  >New Tutorial Request</a>
 
 ## How to propose a sprint
 
