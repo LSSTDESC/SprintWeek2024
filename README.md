@@ -17,7 +17,7 @@ Use one of the links below to propose a sprint:
   - <a href="https://github.com/LSSTDESC/SprintWeek2024/issues/new?assignees=&labels=Paper+Sprint&template=new-paper-sprint.md&title=your+sprint+name+" target="_blank">New Paper Sprint</a>: To propose sprint on paper writing
 
 Clicking on these links will direct you to a Sprint template, make sure to fill-in your sprint information, in as much detail as you can.
-List all of the LSSTDESC GitHub repositories your proposed spirnt may touch (this allows participants to request access ahead of the sprint).
+List all of the LSSTDESC GitHub repositories your proposed sprint may touch (this allows participants to request access ahead of the sprint).
 Then add relevant labels, such as working group (e.g. WL, LSS), expected day of the week, and accessibility level.
 
 ## How to sign up for a sprint
